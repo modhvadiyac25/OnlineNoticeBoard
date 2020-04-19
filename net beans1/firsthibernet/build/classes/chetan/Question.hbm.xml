@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated Mar 13, 2020 11:05:49 AM by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="chetan.Question" table="question" catalog="chetan" optimistic-lock="version">
+        <id name="id" type="int">
+            <column name="id" />
+            <generator class="assigned" />
+        </id>
+        <property name="qname" type="string">
+            <column name="qname" length="50" not-null="true" />
+        </property>
+        <property name="author" type="string">
+            <column name="author" length="30" />
+        </property>
+    </class>
+</hibernate-mapping>

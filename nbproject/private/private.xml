@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>web/template/student/course.jsp</url>
+            <bookmark id="1">
+                <name/>
+                <line>249</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/OnlineNoticeBoard/src/java/student/contact_servlet.java</file>
+            <file>file:/D:/OnlineNoticeBoard/src/java/student/student_login.java</file>
+            <file>file:/D:/OnlineNoticeBoard/web/template/student/index.jsp</file>
+            <file>file:/D:/OnlineNoticeBoard/web/template/student/login.jsp</file>
+            <file>file:/D:/OnlineNoticeBoard/web/template/student/about-us.jsp</file>
+            <file>file:/D:/OnlineNoticeBoard/web/template/student/course.jsp</file>
+            <file>file:/D:/OnlineNoticeBoard/web/template/student/contact.jsp</file>
+        </group>
+    </open-files>
+</project-private>

@@ -46,26 +46,22 @@ public final class index_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\n");
       out.write("<!DOCTYPE html>\n");
       out.write("<html lang=\"en\">\n");
-      out.write("\n");
       out.write("<head>\n");
       out.write("    <meta charset=\"UTF-8\">\n");
       out.write("    <meta name=\"description\" content=\"\">\n");
       out.write("    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n");
       out.write("    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n");
       out.write("    <!-- The above 4 meta tags *m   ust* come first in the head; any other head content must come *after* these tags -->\n");
-      out.write("\n");
       out.write("    <!-- Title -->\n");
       out.write("    <title>Online Notice Board</title>\n");
-      out.write("\n");
       out.write("    <!-- Favicon -->\n");
       out.write("    <link rel=\"icon\" href=\"img/core-img/favicon.ico\">\n");
-      out.write("\n");
       out.write("    <!-- Core Stylesheet -->\n");
       out.write("    <link rel=\"stylesheet\" href=\"style.css\">\n");
-      out.write("\n");
       out.write("</head>\n");
       out.write("\n");
       out.write("<body>\n");
+      out.write("    \n");
       out.write("    ");
 
         if(session.getAttribute("firstname") == null){
